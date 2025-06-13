@@ -1,0 +1,10 @@
+// vscode联想提示 路径
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+    }
+  },
+  "exclude": ["node_modules"]
+}
